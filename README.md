@@ -1,6 +1,7 @@
 # protective-coatings-ml
 
 Machine Learning-Enabled Innovation in Developing Sustainable Protective Coatings
+
 🧪 Project Overview
 This project focuses on developing sustainable, eco-friendly protective coatings derived from tomato pomace (waste) using Machine Learning techniques. It utilizes Support Vector Machine (SVM) for predicting optimal pH levels necessary for lacquer success and safety in coatings, replacing harmful BPA-based materials.
 

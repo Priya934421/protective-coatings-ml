@@ -1,0 +1,11 @@
+lient ID,Tomato Type,Result (mg),Area of Contact (cm²),Exposure Time (hours),Migration Rate (mg/cm²/hour),Consumption Rate (cm²/day),Body Weight (kg),Safety Limit (mg/kg/day)
+CLI_5863,Cherry Tomatoes,0.05,50,24,0.0000417,50,50,0.005
+CLI_5863,Plum Tomatoes,0.1,100,48,0.0000208,50,50,0.005
+CLI_5863,Beefsteak Tomatoes,0.07,75,12,0.0000778,50,55,0.005
+CLI_5863,Roma Tomatoes,0.12,150,30,0.0000267,50,60,0.005
+CLI_5863,Grape Tomatoes,0.09,60,20,0.000075,50,50,0.005
+CLI_5863,Heirloom Tomatoes,0.15,120,24,0.0000521,50,65,0.005
+CLI_5863,Campari Tomatoes,0.08,90,15,0.0000593,50,65,0.005
+CLI_5863,Cocktail Tomatoes,0.11,110,10,0.0001,50,65,0.005
+CLI_5863,Beefmaster Tomatoes,0.06,80,20,0.0000375,50,65,0.005
+CLI_5863,Cherry Plum Tomatoes,0.09,100,12,0.000075,50,60,0.005

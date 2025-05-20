@@ -1,0 +1,11 @@
+client_id,type,ratio,extraction efficiency,ph level
+CLI_5863,Cherry Tomatoes,2:1,85,7
+CLI_5863,Plum Tomatoes,3:1,87,7.5
+CLI_5863,Beefsteak Tomatoes,2:1,82,7.2
+CLI_5863,Roma Tomatoes,3:1,80,6.8
+CLI_5863,Grape Tomatoes,2:1,88,7.1
+CLI_5863,Heirloom Tomatoes,2:1,90,7.3
+CLI_5863,Campari Tomatoes,3:1,87,7.4
+CLI_5863,Beefmaster Tomatoes,2:1,95,7.6
+CLI_5863,Cherry Plum Tomatoes,2:1,91,7.2
+CLI_5863,Cocktail Tomatoes,2:1,93,7

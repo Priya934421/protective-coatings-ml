@@ -1,0 +1,16 @@
+client_id,order_id,product,type_of_product, Total Quantity(Units),tomato pomace needed (KG),delivery date
+CLI_5863,ORD_3685,Canned Soup,can,80000,20,10-10-2025
+CLI_5863,ORD_3685,Instant Noodles Pack,Varies,100000,20,10-10-2025
+CLI_5863,ORD_3685,Frozen Food Packaging,Varies,90000,14,08-08-2025
+CLI_5863,ORD_3685,Aluminum Food Pack,Varies,85000,10,08-08-2025
+CLI_5863,ORD_3685,Plastic Food Container,container,70000,9,        23/08/2025
+CLI_5863,ORD_3685,Glass Food Jar,jar,60000,5,        31/08/2025
+CLI_5863,ORD_3685,Tetra Pak Carton,carton,75000,4,05-09-2025
+CLI_5863,ORD_3685,Vacuum Sealed Pack,pack,90000,17,10-10-2025
+CLI_5863,ORD_3685,Beverage Can,can,100000,15,        28/10/2025
+CLI_5863,ORD_3685,Plastic Bottle,bottle,110000,14,11-12-2025
+CLI_5863,ORD_3685,Plastic Cup,cup,120000,12,        30/07/2025
+CLI_5863,ORD_3685, Microwave Tray,Tray,95000,8,        25/07/2025
+CLI_5863,ORD_3685,Ketchup Bottle,bottle,80000,16,        23/08/2025
+CLI_5863,ORD_3685,Ice Cream Tub,Tub,100000,18,06-10-2025
+CLI_5863,ORD_3685,Cooking Oil Bottle,bottle,70000,10,11-11-2025
